@@ -1,3 +1,8 @@
+Tugas1-RSI-Kelompok-7
+
+# Teknologi yang Digunakan
+Project ini menggunakan Git dan GitHub sebagai tools untuk version control dan kolaborasi dalam pengembangan project.g
+
 # Tugas1-RSI-Kelompok-7
 
 ## Deskripsi Project
@@ -15,4 +20,3 @@ Dengan adanya website ini, informasi mengenai ketersediaan produk dapat ditampil
 - Aprilia Dian Kristiani (NIM L0225016)
 - Istiqaamah Hamiidah NIM (L0225024)
 - Noverla Caesarlia Mullatwati (NIM L0225054)
-
